@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @muzzkit
-- 👀 I’m interested in Javascript 
-- 🌱 I’m currently learning React framework Nextjs
-- 💞️ I’m looking to collaborate on any Javascript or Typescript Project
-- 📫 How to reach me .....
+- 👋 Hi, I’m @muzzkit 
+- 👀 I’m interested in Javascript, Nextjs, Solidity, and Rust
+- 🌱 I’m currently learning architecture designs 
+- 💞️ I’m looking to collaborate on any Javascript or Typescript Project 
+- 📫 .....
