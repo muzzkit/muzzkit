@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muzzkit 
-- 👀 I’m interested in Javascript, Nextjs, Solidity, and Rust
+- 👀 I’m interested in Javascript, React, Nextjs, Solidity
 - 🌱 I’m currently learning architecture designs 
 - 💞️ I’m looking to collaborate on any Javascript or Typescript Project 
 - 📫 .....
